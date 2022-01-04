@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TIXZP9AHpMVmr+q0zpN+JE9mbTZK2fmuZ8Ges3J8WbCVar0ZP8WfhDNrmkpza8eN+Vfp+1zaKothnoxHR9VUyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aktur\\source\\repos\\MultithreadProgramming\\PLINQ_Exception\\PLINQ_Exception.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aktur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\aktur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

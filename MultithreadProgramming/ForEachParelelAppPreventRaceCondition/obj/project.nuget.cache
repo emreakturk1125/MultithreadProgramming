@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QoCgqVfBDo147vNGKz8koah17+5xDLu+/oYCjvUSokdJd83pzyKkDJQWS0RhaQ2tIeuNr2UhkVpUcPUO6jD34g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aktur\\source\\repos\\MultithreadProgramming\\ForEachParelelAppPreventRaceCondition\\ForEachParelelAppPreventRaceCondition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aktur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\aktur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

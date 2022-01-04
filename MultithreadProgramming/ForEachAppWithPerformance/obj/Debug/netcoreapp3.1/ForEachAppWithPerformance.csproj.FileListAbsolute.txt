@@ -1,0 +1,14 @@
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\bin\Debug\netcoreapp3.1\ForEachAppWithPerformance.exe
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\bin\Debug\netcoreapp3.1\ForEachAppWithPerformance.deps.json
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\bin\Debug\netcoreapp3.1\ForEachAppWithPerformance.runtimeconfig.json
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\bin\Debug\netcoreapp3.1\ForEachAppWithPerformance.runtimeconfig.dev.json
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\bin\Debug\netcoreapp3.1\ForEachAppWithPerformance.dll
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\bin\Debug\netcoreapp3.1\ForEachAppWithPerformance.pdb
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\obj\Debug\netcoreapp3.1\ForEachAppWithPerformance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\obj\Debug\netcoreapp3.1\ForEachAppWithPerformance.AssemblyInfoInputs.cache
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\obj\Debug\netcoreapp3.1\ForEachAppWithPerformance.AssemblyInfo.cs
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\obj\Debug\netcoreapp3.1\ForEachAppWithPerformance.csproj.CoreCompileInputs.cache
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\obj\Debug\netcoreapp3.1\ForEachAppWithPerformance.dll
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\obj\Debug\netcoreapp3.1\ForEachAppWithPerformance.pdb
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\obj\Debug\netcoreapp3.1\ForEachAppWithPerformance.genruntimeconfig.cache
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachAppWithPerformance\obj\Debug\netcoreapp3.1\ForEachAppWithPerformance.csprojAssemblyReference.cache

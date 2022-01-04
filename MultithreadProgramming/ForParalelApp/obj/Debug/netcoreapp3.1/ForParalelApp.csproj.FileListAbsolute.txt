@@ -1,0 +1,14 @@
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\bin\Debug\netcoreapp3.1\ForParalelApp.exe
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\bin\Debug\netcoreapp3.1\ForParalelApp.deps.json
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\bin\Debug\netcoreapp3.1\ForParalelApp.runtimeconfig.json
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\bin\Debug\netcoreapp3.1\ForParalelApp.runtimeconfig.dev.json
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\bin\Debug\netcoreapp3.1\ForParalelApp.dll
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\bin\Debug\netcoreapp3.1\ForParalelApp.pdb
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\obj\Debug\netcoreapp3.1\ForParalelApp.csprojAssemblyReference.cache
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\obj\Debug\netcoreapp3.1\ForParalelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\obj\Debug\netcoreapp3.1\ForParalelApp.AssemblyInfoInputs.cache
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\obj\Debug\netcoreapp3.1\ForParalelApp.AssemblyInfo.cs
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\obj\Debug\netcoreapp3.1\ForParalelApp.csproj.CoreCompileInputs.cache
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\obj\Debug\netcoreapp3.1\ForParalelApp.dll
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\obj\Debug\netcoreapp3.1\ForParalelApp.pdb
+C:\Users\aktur\source\repos\MultithreadProgramming\ForParalelApp\obj\Debug\netcoreapp3.1\ForParalelApp.genruntimeconfig.cache

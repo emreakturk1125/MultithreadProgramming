@@ -1,0 +1,104 @@
+
+Not : Asenkron demek multithread programlama anlamına gelmez 
+
+----------------------------------------------------------------------------------------------------------
+                                              Senkron 
+----------------------------------------------------------------------------------------------------------
+
+-> Thread bloklanır. Diğer iş önceki işin bitmesini bekler
+-> Aynı anda daha çok request işleme sokulmaz
+
+----------------------------------------------------------------------------------------------------------
+                                              Asenkron (task,await)
+----------------------------------------------------------------------------------------------------------
+
+-> Threadin bloklanmadığı programlamadır. Yani başka işlerle de ilgilenebilir
+-> Birden fazla thread kullanılacak anlamına gelmez
+-> Tek thread ile de asenkron programlama yapılabilir. Birden fazla thread ile de olabilir
+-> Thread iş parçacığıdır
+-> Aynı anda daha çok requesti işleme sokar
+-> Bir asenkron metod çağrışacak ise async ve await keyword leri olmak zorundadır.
+-> Asenkron çağrı yok ise async ve await e gerek yok
+
+
+----------------------------------------------------------------------------------------------------------
+                                             Task Paralel library(TPL) 
+----------------------------------------------------------------------------------------------------------
+
+-> Bu kütüphane ile Multihtrad programlama yapabiliriz
+
+-------------------------------------------------------
+                     Multithread 
+-------------------------------------------------------
+
+-> İşlerin eş zamanlı olarak birden fazla thread ile işlenmesidir. Her thread bir iş yapar
+-> işlemcinin tam performanslı bir şekilde kullanılmasını sağlar n çekirdekli bir işlemci ise n adet worker thread oluşturulabilir
+
+Bir uygulama ilk çalıştığında;
+
+beraberinde otomatik olarak Main Thread (Primary Thread ya da UI Thread de denilebilir. Kullanıldığı yerlere göre ismi değişebilir) ayağa kaldırılır.
+
+------------------
+Race Condition
+------------------
+-> Birden fazla threadin paylaşılan alana aynı anda erişmeye çalıştığı durumudur. Bunu engellemek için Interlocked kullanılır. Yani lock lama işlemi yapılır
+
+------------------
+Interlocked 
+------------------
+-> Race Condition Birden fazla threadin paylaşılan alana aynı anda erişmeye çalıştığı durumudur. Bunu engellemek için Interlocked kullanılır. Yani lock lama işlemi yapılır
+
+------------------
+A.) TASK
+------------------
+-> Task sınıftır.
+-> Aslında task metodları ile bir taahhüt veriliyor. İşleme başladım sonucu döneceğim gibi, o esnada alt satırlardaki işlem devam eder. Ta ki await keyword ü kullanılana kadar
+
+------------------
+B.) AWAIT
+------------------
+-> Datayı almak için bekle demek, awaiti nerede kullanırsan datayı orda alırsın demektir
+-> İşlemi yaptıktan sonra bir alt satıra geçer.
+-> await ullanıldığı vakit thread bloklanmış olmaz
+
+-----------------------------
+C.) Task.WhenAll(Task1,Task2,..)
+-----------------------------
+-> Array içindeki bütün task lerin tamamlanmasını bekler. threadler bloklanmaz
+
+-----------------------------
+D.) Task.WhenAny(Task1,Task2,..)
+-----------------------------
+-> Array içindeki bütün task lerden ilk tamamlananı geri döner.  threadler bloklanmaz
+
+-----------------------------
+E.) Task.WaitAll(Task1,Task2,..)
+-----------------------------
+-> Array içindeki bütün task lerin tamamlanmasını bekler. Fakat threadler bloklanır
+
+-----------------------------
+F.) Task.WaitAny(Task1,Task2,..)
+-----------------------------
+-> Array içindeki bütün task lerden ilk tamamlananı geri döner.Fakat threadler bloklanır
+
+-----------------------------
+G.) Task.Run()  
+-----------------------------
+-> farklı bir thread de metodu çalıştırmak istersen
+
+-----------------------------
+H.) Task.FromResult()  
+-----------------------------
+-> Cacheden veri okumak için
+
+-----------------------------
+I.) CancellationTokenSource  
+-----------------------------
+-> Cevap süresi uzun olan Asenkron metodu iptal etmek için kullanılır
+
+-----------------------------
+J.) PLINQ 
+-----------------------------
+-> PLINQ linq sorgularını paralel bir şekilde çalıştırılmasını sağlar (Sorgular eş zamanlı olarak farklı threadler üzerinde çalıştırılmasıdır.)
+-> PLINQ  ForAll() ile birlikte kullanılmaldır. Multithread olarak çalışabilmesi için
+ex: Array.AsParallel()

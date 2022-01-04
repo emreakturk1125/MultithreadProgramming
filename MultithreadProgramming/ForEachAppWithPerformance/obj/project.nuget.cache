@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qm71Wbfwlom3gx8eitAW1XRuEGGvCZ/dcouM+YbOgDS0P701XxiDfIoS3vdRRxLY9NWeT5FJ2qq8KA6b0GJj+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aktur\\source\\repos\\MultithreadProgramming\\ForEachAppWithPerformance\\ForEachAppWithPerformance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aktur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\aktur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

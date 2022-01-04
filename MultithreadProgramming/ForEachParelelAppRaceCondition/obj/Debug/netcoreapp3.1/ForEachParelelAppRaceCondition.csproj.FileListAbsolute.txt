@@ -1,0 +1,14 @@
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\bin\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.exe
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\bin\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.deps.json
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\bin\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.runtimeconfig.json
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\bin\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.runtimeconfig.dev.json
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\bin\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.dll
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\bin\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.pdb
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\obj\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.csprojAssemblyReference.cache
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\obj\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\obj\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.AssemblyInfoInputs.cache
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\obj\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.AssemblyInfo.cs
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\obj\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.csproj.CoreCompileInputs.cache
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\obj\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.dll
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\obj\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.pdb
+C:\Users\aktur\source\repos\MultithreadProgramming\ForEachParelelAppRaceCondition\obj\Debug\netcoreapp3.1\ForEachParelelAppRaceCondition.genruntimeconfig.cache

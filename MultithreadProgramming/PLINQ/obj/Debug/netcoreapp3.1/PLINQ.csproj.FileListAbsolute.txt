@@ -1,0 +1,13 @@
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\bin\Debug\netcoreapp3.1\PLINQ.exe
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\bin\Debug\netcoreapp3.1\PLINQ.deps.json
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\bin\Debug\netcoreapp3.1\PLINQ.runtimeconfig.json
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\bin\Debug\netcoreapp3.1\PLINQ.runtimeconfig.dev.json
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\bin\Debug\netcoreapp3.1\PLINQ.dll
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\bin\Debug\netcoreapp3.1\PLINQ.pdb
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\obj\Debug\netcoreapp3.1\PLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\obj\Debug\netcoreapp3.1\PLINQ.AssemblyInfoInputs.cache
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\obj\Debug\netcoreapp3.1\PLINQ.AssemblyInfo.cs
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\obj\Debug\netcoreapp3.1\PLINQ.csproj.CoreCompileInputs.cache
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\obj\Debug\netcoreapp3.1\PLINQ.dll
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\obj\Debug\netcoreapp3.1\PLINQ.pdb
+C:\Users\aktur\source\repos\MultithreadProgramming\PLINQ\obj\Debug\netcoreapp3.1\PLINQ.genruntimeconfig.cache

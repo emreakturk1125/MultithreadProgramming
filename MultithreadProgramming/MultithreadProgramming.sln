@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachParalelApp", "ForEachParalelApp\ForEachParalelApp.csproj", "{0BE4FDA0-E28C-44C6-A295-621F5529E7AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachParelelAppPreventRaceCondition", "ForEachParelelAppPreventRaceCondition\ForEachParelelAppPreventRaceCondition.csproj", "{33E98A26-5C43-4882-BE5B-25B537AB7F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachParelelAppRaceCondition", "ForEachParelelAppRaceCondition\ForEachParelelAppRaceCondition.csproj", "{5C75BBCF-C5C8-415E-B826-E5DD33611BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForParalelApp", "ForParalelApp\ForParalelApp.csproj", "{B8564388-134A-40FC-B023-DCC857A52890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachAppWithPerformance", "ForEachAppWithPerformance\ForEachAppWithPerformance.csproj", "{8AF77593-FC6D-4873-8A4E-7D72CB538611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ-2", "PLINQ-2\PLINQ-2.csproj", "{C44FEB81-F594-447A-A25A-8BDCE12BBB35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ", "PLINQ\PLINQ.csproj", "{4B2F1FA4-C2AC-4568-9362-D33A3C11B912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE4FDA0-E28C-44C6-A295-621F5529E7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE4FDA0-E28C-44C6-A295-621F5529E7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE4FDA0-E28C-44C6-A295-621F5529E7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE4FDA0-E28C-44C6-A295-621F5529E7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E98A26-5C43-4882-BE5B-25B537AB7F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E98A26-5C43-4882-BE5B-25B537AB7F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E98A26-5C43-4882-BE5B-25B537AB7F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E98A26-5C43-4882-BE5B-25B537AB7F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C75BBCF-C5C8-415E-B826-E5DD33611BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C75BBCF-C5C8-415E-B826-E5DD33611BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C75BBCF-C5C8-415E-B826-E5DD33611BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C75BBCF-C5C8-415E-B826-E5DD33611BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8564388-134A-40FC-B023-DCC857A52890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8564388-134A-40FC-B023-DCC857A52890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8564388-134A-40FC-B023-DCC857A52890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8564388-134A-40FC-B023-DCC857A52890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF77593-FC6D-4873-8A4E-7D72CB538611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF77593-FC6D-4873-8A4E-7D72CB538611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF77593-FC6D-4873-8A4E-7D72CB538611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF77593-FC6D-4873-8A4E-7D72CB538611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C44FEB81-F594-447A-A25A-8BDCE12BBB35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44FEB81-F594-447A-A25A-8BDCE12BBB35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44FEB81-F594-447A-A25A-8BDCE12BBB35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44FEB81-F594-447A-A25A-8BDCE12BBB35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2F1FA4-C2AC-4568-9362-D33A3C11B912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2F1FA4-C2AC-4568-9362-D33A3C11B912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2F1FA4-C2AC-4568-9362-D33A3C11B912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2F1FA4-C2AC-4568-9362-D33A3C11B912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9DDB8BC-B36D-4023-A65C-965B10C1C9E5}
+	EndGlobalSection
+EndGlobal
